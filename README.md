@@ -2,11 +2,7 @@
 
 Link: [https://todo-mriyank.netlify.app/](https://todo-mriyank.netlify.app/)
 
-
 <br/><br/>
-<br/><br/>
-
-
 # Running Locally
 ```
 npm install
