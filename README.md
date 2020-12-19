@@ -1,12 +1,12 @@
 # todo-list-react
 
 Link: [https://todo-mriyank.netlify.app/](https://todo-mriyank.netlify.app/)
-CREATE TODO (click on add todo)
-DELETE TODO (click on the delete icon)
-MARK COMPLETE (click on the text)
-MARK INCOMPLETE (click on the text)
+CREATE TODO (click on add todo) <br/>
+DELETE TODO (click on the delete icon)<br/>
+MARK COMPLETE (click on the text)<br/>
+MARK INCOMPLETE (click on the text)<br/>
 
-<br/><br/>
+<br/>
 # Running Locally
 ```
 npm install
